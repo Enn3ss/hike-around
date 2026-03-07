@@ -1,6 +1,6 @@
 export default function HeroSection() {
     return (
-        <section className="h-[85vh] flex mx-8" >
+        <section className="h-[85vh] flex mx-8">
             <div className="w-1/4 flex flex-col justify-center px-16 gap-6">
                 <h1 className="text-4xl font-bold">
                     Hi, I'm Nathan and I love to backpack.

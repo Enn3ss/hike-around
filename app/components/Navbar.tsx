@@ -10,13 +10,13 @@ export default function Navbar(){
       </div>
       <div className="flex gap-8">
         <a href="/" className="hover:underline hover:scale-110 transition">
-          Hikes
+          HIKES
         </a>
         <a href="/" className="hover:underline hover:scale-110 transition">
-          About
+          ABOUT
         </a>
         <a href="/" className="hover:underline hover:scale-110 transition">
-          Blog
+          BLOG
         </a>
       </div>
       <div className="flex gap-4">
